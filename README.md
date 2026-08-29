@@ -14,8 +14,7 @@
 | Cisco — Switching, Routing & Wireless Essentials (CCNA 2) | ✅ Credly Verified |
 | Cisco — Introduction to Cybersecurity | ✅ Credly Verified |
 | CompTIA Network+ (SY0-007) | ✅ Completed |
-| Google Cybersecurity Certificate — Coursera | ✅ Completed |
-| AWS Skill Builder — Individual Subscription | 🟢 Active |
+| Google Cybersecurity Certificate — Coursera | ✅ Credly Verified |
 
 ---
 
